@@ -15,6 +15,5 @@
 }
 
 .pics {
-  height:auto;
-  width:425px;
+  opacity: 0.6;
 }

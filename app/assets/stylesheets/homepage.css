@@ -1,0 +1,20 @@
+.right {
+  position: absolute;
+  right: 0px;
+  width: 98px;
+}
+
+.left {
+  position: absolute;
+  left: 0px;
+  width: 98px;
+}
+
+#collab_pics {
+  margin-top:30px;
+}
+
+.pics {
+  height:auto;
+  width:425px;
+}

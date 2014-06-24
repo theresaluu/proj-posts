@@ -11,9 +11,28 @@
 }
 
 #collab_pics {
-  margin-top:30px;
+  margin-top: 30px;
 }
 
 .pics {
   opacity: 0.6;
+}
+
+.icon{
+  height: 100px;
+  width: 100px;
+  float: left;
+  top: 15px;
+}
+
+#browse{
+  background: purple;
+}
+
+#solicit{
+  background: red;
+}
+
+#peep{
+  background: yellow;
 }

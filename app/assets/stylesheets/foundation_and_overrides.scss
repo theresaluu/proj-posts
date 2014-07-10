@@ -10,7 +10,7 @@
 // $rem-base: 16px;
 
 // Allows the use of rem-calc() or lower-bound() in your settings
-@import "foundation/functions";
+// @import "foundation/functions";
 
 // $experimental: true;
 
@@ -345,11 +345,11 @@
 // $button-font-color: #fff;
 // $button-font-color-alt: #333;
 // $button-font-tny: rem-calc(11);
-$button-font-sml: rem-calc(7);
+// $button-font-sml: rem-calc(7);
 // $button-font-med: rem-calc(16);
 // $button-font-lrg: rem-calc(20);
 // $button-font-weight: $font-weight-normal;
-$button-font-align: left;
+// $button-font-align: left;
 
 // We use these to control various hover effects.
 // $button-function-factor: -20%;
@@ -1174,10 +1174,10 @@ $button-font-align: left;
 // TOP BAR
 //
 
-$include-html-top-bar-classes: $include-html-classes;
+// $include-html-top-bar-classes: $include-html-classes;
 
 // Background color for the top bar
-$topbar-bg-color: #261034;
+// $topbar-bg-color: #261034;
 // $topbar-bg: $topbar-bg-color;
 
 // Height and margin

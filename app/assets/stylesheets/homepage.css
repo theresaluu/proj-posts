@@ -11,10 +11,14 @@
 }
 
 .icon{
-  height: 100px;
-  width: 100px;
+  height: 150px;
+  width: 150px;
   float: left;
-  top: 15px;
+  position: static;
+  margin-top: 15px;
+  border-radius: 10px;
+  margin-left: 96px;
+  margin-right: 87px;
 }
 
 #browse{

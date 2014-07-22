@@ -1,3 +1,15 @@
+#background-color{
+  background: #FBEBDC;
+}
+
+.top-bar{
+  background: #E7D5BD;
+}
+
+.has_form{
+  background: #E7D5BD;
+}
+
 .right {
   right: 0px;
 }
@@ -10,21 +22,37 @@
   opacity: 0.6;
 }
 
-.icon{
-  height: 100px;
-  width: 100px;
+.icon-area{
+  height: 150px;
+  width: 150px;
   float: left;
-  top: 15px;
+  position: static;
+  margin-top: 15px;
+  border-radius: 20px;
+  margin-left: 96px;
+  margin-right: 87px;
+}
+
+.icon{
+  padding-left: 30%;
 }
 
 #browse{
-  background: purple;
+  background: #5F4F5A;
 }
 
 #solicit{
-  background: red;
+  background: #5F4F5A;
 }
 
 #peep{
-  background: yellow;
+  background: #5F4F5A;
+}
+
+.button{
+  background: #637660;
+}
+
+.title{
+  color: #261034;
 }
